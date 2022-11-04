@@ -1,0 +1,8 @@
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\bin\Debug\2020A2B.exe.config
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\bin\Debug\2020A2B.exe
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\bin\Debug\2020A2B.pdb
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\obj\Debug\2020A2B.csproj.AssemblyReference.cache
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\obj\Debug\2020A2B.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\obj\Debug\2020A2B.csproj.CoreCompileInputs.cache
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\obj\Debug\2020A2B.exe
+C:\Users\jmn12\Documents\Cios2020\2020A2B\2020A2B\obj\Debug\2020A2B.pdb
